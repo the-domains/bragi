@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Bragi]]></title>
         <description><![CDATA[Bragi]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bragi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 21:13:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Jan 2016 21:18:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bragi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bragi Running Design Test]]></title>
             <description><![CDATA[<article><h1>Bragi Running Design Test</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ad55578e1983b7f349fbc91bd6e23d330ee8a43.png"></article>]]></description>
-            <link>undefinedbragi-running-design-test/index.html</link>
+            <link>https://thegrid.ai/bragi/bragi-running-design-test/index.html</link>
             <guid isPermaLink="false">381c7a4c-7af2-42c2-8455-42748f016b68</guid>
-            <pubDate>Mon, 04 Jan 2016 21:13:49 GMT</pubDate>
+            <pubDate>Mon, 04 Jan 2016 21:18:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
