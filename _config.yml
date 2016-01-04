@@ -1,7 +1,7 @@
 name: Bragi
 favicon: null
-layout_spectrum: 0.07377268793061376
-typography_spectrum: 0.9398302235640585
+layout_spectrum: 0
+typography_spectrum: 0.25432
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.3392941039055586
-  lightness: 0.9104100619442761
-  saturation: 0.8409306025132537
-  rhythmicContrast: 0.5151679078117013
+    - '#222222'
+    - '#b5b5b5'
+    - '#00aae5'
+    - '#0d6b8e'
+    - '#f2f2f2'
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
