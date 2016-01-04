@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-04T21:13:49.955Z'
-dateModified: '2016-01-04T21:13:39.205Z'
+datePublished: '2016-01-04T21:18:20.188Z'
+dateModified: '2016-01-04T21:15:25.252Z'
 title: Bragi Running Design Test
 author: []
+sourcePath: _posts/2016-01-04-bragi-running-design-test.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-04-bragi-running-design-test.md
-published: true
 url: bragi-running-design-test/index.html
 _type: Article
 
